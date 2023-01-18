@@ -31,6 +31,8 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 ![giphy](https://media.giphy.com/media/GbH8vRmrNHdVZhouBt/giphy.gif) 
 
+![GALADRIEL](faint-omg.gif)/! [](faint-omg.gif)
+
 ```{r}
 ```
 
